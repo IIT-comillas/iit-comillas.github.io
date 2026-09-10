@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to [ICAI-IIT Home Page](https://github.com/IIT-comillas/iit-comillas.github.io) @ Comillas Pontifical University
+Welcome to [ICAI-IIT Home Page](https://github.com/IIT-comillas/iit-comillas.github.io) @ [Comillas Pontifical University](https://www.comillas.edu/en/)
 
 This site index all research areas at [ICAI-IIT](https://www.iit.comillas.edu/index.php.en).
 
