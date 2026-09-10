@@ -1,4 +1,6 @@
 title               : "Institute for Research in Technology (ICAI-IIT). Comillas Pontifical University"
+remote_theme        : pages-themes/minimal@v0.2.0
+
 # Where things are
 source              : .
 destination         : ./_site
@@ -30,7 +32,8 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             :
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Conversion
 markdown            : kramdown
